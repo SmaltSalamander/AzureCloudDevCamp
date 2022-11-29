@@ -1,1 +1,1 @@
-Squad 2 Azure Development
+Squad Rabbits Azure Development
