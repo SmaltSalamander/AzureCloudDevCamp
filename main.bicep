@@ -12,4 +12,4 @@ resource storageaccount 'Microsoft.Storage/storageAccounts@2021-02-01' = {
   }
 }
 
-output storageaccount string = storagename
+output storage_id string = storageaccount.id
